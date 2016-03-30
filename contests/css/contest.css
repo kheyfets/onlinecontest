@@ -1,0 +1,26 @@
+#contest {
+   padding: 20px;
+   background-color: lightGray;
+   border-radius: 3px;
+   box-shadow: 1px 1px 15px 1px;
+	height: 475px;
+}
+#leader_board table {
+	position: relative;
+	width: 49%;
+}
+#contest_header {
+	position: relative;
+	height: 300px;
+}
+#contest_info {
+	width: 50%;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+#contest_pic {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}

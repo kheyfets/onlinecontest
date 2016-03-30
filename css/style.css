@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'lobster';
+	src: url('lobster/lobster.otf');
+}
+.dropdown-menu .form-search .btn-mini {
+	height: 25px;
+	position: relative;
+	bottom: 2px;
+}
+#header {
+	font-family: 'lobster', cursive;
+}
+#myCarousel.carousel {
+	background-color: lightGray;
+	box-shadow: 1px 1px 15px 1px;
+	border-radius: 3px;
+	padding: 50px;
+}
+.carousel-inner {
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	height: 431px;
+}
+.carousel-inner img {
+	width: 750px;
+}
+#contests {
+   padding: 20px;
+   background-color: lightGray;
+   border-radius: 3px;
+   box-shadow: 1px 1px 15px 1px;
+}
+#contests .row-fluid div {
+	position: relative;
+	margin-top: 20px;
+	padding: 10px;
+	height: 200px;
+	background-color: white;
+	border-radius: 3px;
+	box-shadow: 0px 0px 5px 0px;
+}
+#contests .row-fluid div .quick {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+#contests .row-fluid div .enter {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
